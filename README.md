@@ -4,6 +4,12 @@
 
 Welcome to the Musical Artist Profile repository! This repository is dedicated to providing comprehensive profiles of various musical artists. It includes information about their biography, discography, significant achievements, and more.
 
+# Halmblog Music
+
+**Website**: [www.halmblogmusic.com](https://www.halmblogmusic.com)
+
+Halmblog Music is a comprehensive music platform that provides detailed profiles, discographies, and histories of various musical artists. Visit our website for the latest updates on your favorite artists
+
 ## Contents
 
 - Artist Biographies
